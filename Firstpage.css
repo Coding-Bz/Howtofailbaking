@@ -63,18 +63,18 @@ a:hover {
 }
 @keyframes neonColors {
     0% {
-        filter: hue-rotate(8deg) saturate(2);
+        filter: hue-rotate(2deg) saturate(5);
     }
     25% {
-        filter: hue-rotate(83deg) saturate(3) brightness(1.9);
+        filter: hue-rotate(13deg) saturate(0.3) brightness(1.9);
     }
     50% {
-        filter: hue-rotate(89deg) saturate(2.2) brightness(1.1);
+        filter: hue-rotate(239deg) saturate(13.2) brightness(1.1);
     }
     75% {
-        filter: hue-rotate(1460deg) saturate(3.5) brightness(1.3);
+        filter: hue-rotate(1460deg) saturate(3.5) brightness(10.3);
     }
     100% {
-        filter: hue-rotate(20deg) saturate(2);
+        filter: hue-rotate(29deg) saturate(21);
     }
 }
